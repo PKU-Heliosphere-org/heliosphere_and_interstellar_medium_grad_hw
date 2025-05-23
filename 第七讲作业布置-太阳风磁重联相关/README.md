@@ -63,8 +63,8 @@ for i in range(180):
 - 运行pyvista_gif_make_InSB.py，改变变量vdftime为你挑选的时刻。理想情况下，你就能得到三维VDF的图像。
 
 # 相关程序提供者
-吴子祺 (Ziqi WU)
-段叠 (Die DUAN)
+吴子祺 (Ziqi WU)\\
+段叠 (Die DUAN)\\
 何建森 (Jiansen HE)
 
 # 相关参考文献
