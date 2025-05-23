@@ -68,7 +68,7 @@ for i in range(180):
 何建森 (Jiansen HE)
 
 # 相关参考文献
-(1) Duan, D., He, J., Zhu, X., Zhuo, R., Wu, Z., Nicolaou, G., ... & Horbury, T. S. (2023). Kinetic Features of Alpha Particles in a Pestchek-like Magnetic Reconnection Event in the Solar Wind Observed by Solar Orbiter. The Astrophysical Journal Letters, 952(1), L11.
-(2) Wu, Z., He, J., Duan, D., Zhu, X., Hou, C., Verscharen, D., ... & Louarn, P. (2023). Ion Energization and Thermalization in Magnetic Reconnection Exhaust Region in the Solar Wind. The Astrophysical Journal, 951(2), 98.
-(3) Luo, Q., Duan, D., He, J., Zhu, X., Verscharen, D., Cui, J., & Lai, H. (2023). Statistical Study of Anisotropic Proton Heating in Interplanetary Magnetic Switchbacks Measured by Parker Solar Probe. The Astrophysical Journal Letters, 952(2), L40.
-(4) Jiansen, H., Xingyu, Z., Yajie, C., Chadi, S., Michael, S., Hui, L., ... & Chuanyi, T. (2018). Plasma heating and Alfvénic turbulence enhancement during two steps of energy conversion in magnetic reconnection exhaust region of solar wind. The Astrophysical Journal, 856(2), 148.
+- (1) Duan, D., He, J., Zhu, X., Zhuo, R., Wu, Z., Nicolaou, G., ... & Horbury, T. S. (2023). Kinetic Features of Alpha Particles in a Pestchek-like Magnetic Reconnection Event in the Solar Wind Observed by Solar Orbiter. The Astrophysical Journal Letters, 952(1), L11.
+- (2) Wu, Z., He, J., Duan, D., Zhu, X., Hou, C., Verscharen, D., ... & Louarn, P. (2023). Ion Energization and Thermalization in Magnetic Reconnection Exhaust Region in the Solar Wind. The Astrophysical Journal, 951(2), 98.
+- (3) Luo, Q., Duan, D., He, J., Zhu, X., Verscharen, D., Cui, J., & Lai, H. (2023). Statistical Study of Anisotropic Proton Heating in Interplanetary Magnetic Switchbacks Measured by Parker Solar Probe. The Astrophysical Journal Letters, 952(2), L40.
+- (4) Jiansen, H., Xingyu, Z., Yajie, C., Chadi, S., Michael, S., Hui, L., ... & Chuanyi, T. (2018). Plasma heating and Alfvénic turbulence enhancement during two steps of energy conversion in magnetic reconnection exhaust region of solar wind. The Astrophysical Journal, 856(2), 148.
