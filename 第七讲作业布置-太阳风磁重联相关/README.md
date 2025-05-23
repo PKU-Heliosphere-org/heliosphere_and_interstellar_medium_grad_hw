@@ -61,3 +61,14 @@ for i in range(180):
 
 - 从已经画出的二维质子VDF切片时间序列中，挑选出你最感兴趣的时刻，绘制三维质子VDF
 - 运行pyvista_gif_make_InSB.py，改变变量vdftime为你挑选的时刻。理想情况下，你就能得到三维VDF的图像。
+
+# 相关程序提供者
+吴子祺 (Ziqi WU)
+段叠 (Die DUAN)
+何建森 (Jiansen HE)
+
+# 相关参考文献
+(1) Duan, D., He, J., Zhu, X., Zhuo, R., Wu, Z., Nicolaou, G., ... & Horbury, T. S. (2023). Kinetic Features of Alpha Particles in a Pestchek-like Magnetic Reconnection Event in the Solar Wind Observed by Solar Orbiter. The Astrophysical Journal Letters, 952(1), L11.
+(2) Wu, Z., He, J., Duan, D., Zhu, X., Hou, C., Verscharen, D., ... & Louarn, P. (2023). Ion Energization and Thermalization in Magnetic Reconnection Exhaust Region in the Solar Wind. The Astrophysical Journal, 951(2), 98.
+(3) Luo, Q., Duan, D., He, J., Zhu, X., Verscharen, D., Cui, J., & Lai, H. (2023). Statistical Study of Anisotropic Proton Heating in Interplanetary Magnetic Switchbacks Measured by Parker Solar Probe. The Astrophysical Journal Letters, 952(2), L40.
+(4) Jiansen, H., Xingyu, Z., Yajie, C., Chadi, S., Michael, S., Hui, L., ... & Chuanyi, T. (2018). Plasma heating and Alfvénic turbulence enhancement during two steps of energy conversion in magnetic reconnection exhaust region of solar wind. The Astrophysical Journal, 856(2), 148.
